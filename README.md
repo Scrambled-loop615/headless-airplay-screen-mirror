@@ -6,6 +6,9 @@ You must enable the screen mirror icon to show in the menu bar.
 
 Currently tested and working on Sequoia.
 
+Video Link:<br>
+[![How it Works Video](https://img.youtube.com/vi/9cStYCcJYCw/0.jpg)](https://www.youtube.com/shorts/9cStYCcJYCw)
+
 The workflow is:
 
 1. AeroSpace starts at login.
