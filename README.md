@@ -46,3 +46,5 @@ This is meant for cases where:
 - you want a single keyboard shortcut to start AirPlay without navigating the UI
 
 If the repo moves, update the script path in `.aerospace.toml`.
+
+[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=tylerboni&button_colour=FFDD00&font_colour=000000&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/tylerboni)
