@@ -1,0 +1,11 @@
+# Minimal AeroSpace config for this repo.
+# Keeps only the startup chime and the AirPlay launcher script.
+
+after-startup-command = [
+    'exec-and-forget /usr/bin/afplay /System/Library/Sounds/Glass.aiff',
+]
+
+start-at-login = true
+
+[mode.main.binding]
+    alt-f1 = '''exec-and-forget /bin/bash -lc "$HOME/source/repos/airplay/Airplay.sh"'''
